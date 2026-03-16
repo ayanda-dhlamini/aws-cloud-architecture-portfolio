@@ -1,12 +1,12 @@
-# Infrastructure Architectures
+# Serverless Architectures
 
-This section contains cloud infrastructure designs focused on building scalable, resilient, and highly available environments on AWS.
+This section contains projects demonstrating serverless application architectures built using AWS managed services.
 
-Projects in this category demonstrate core infrastructure components such as compute resources, load balancing, and automated scaling to support production-ready applications.
+Serverless architectures remove the need to manage infrastructure while enabling scalable and event-driven application workflows.
 
 Key concepts covered include:
 
-- High availability architecture
-- Elastic compute scaling
-- Load balancing strategies
-- Infrastructure monitoring and logging
+- Event-driven architecture
+- Serverless compute using AWS Lambda
+- Workflow orchestration using Step Functions
+- Integration with AI and cloud storage services
