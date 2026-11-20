@@ -1,3 +1,5 @@
+> **Note:** This is the broader target-state architecture proposed for the platform. The proof of concept implemented only the cross-region document extraction pipeline, which is documented in the [project README](./README.md).
+
 # Serverless Document Processing Platform
 
 ## 1. Project Summary
